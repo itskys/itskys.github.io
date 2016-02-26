@@ -4,9 +4,9 @@ title: "问答：Faqs"
 ---
 
 
-####git常用命令
+###git常用命令
 
-####Markdown
+###Markdown
 1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>  
 2,Oracle现在真是恶心，下载个Java SDK还非得让登陆不可。只好再找下载地址了: <http://ghaffarian.net/downloads/>  
 

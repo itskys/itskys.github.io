@@ -1,8 +1,11 @@
-markdown: kramdown
+markdown: redcarpet
 permalink: /:categories/:title.html
 url: 
-highlighter: true
-safe: true
+highlighter: rouge
+lsi: false
+safe: false
+excerpt_separator: "\n\n\n"
+paginate: 10
 # auto: true 
 # presonal config
 domain: www.itskys.com

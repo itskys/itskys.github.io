@@ -1,10 +1,9 @@
 markdown: kramdown
 permalink: /:categories/:title.html
 url: 
-lsi: false
 highlighter: true
 safe: true
-auto: false 
+# auto: true 
 # presonal config
 domain: www.itskys.com
 title: itskys.com

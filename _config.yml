@@ -1,21 +1,17 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title.html
 url: 
 lsi: false
-pygments: true
+highlighter: true
 safe: true
 auto: false 
-
-paginate: 8
-paginate_path: "page:num"
-
 # presonal config
-domain: www.panxw.com
-title: Panxw's Blog
-description: Android, Cocos2d, Java Web, Linux, reading...
-author: Steven Pan
-email: winfirm#163.com
-github: panxw
+domain: www.itskys.com
+title: itskys.com
+description: Network, Linux, Servers, Java, Android, iOS, reading...
+author: Kingkong
+email: itskys#gmail.com
+github: itskys
 
 config:
   js_dir:

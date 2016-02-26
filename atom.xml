@@ -4,7 +4,7 @@
  <title>itskys.com</title>
  <link href="http://www.itskys.com/atom.xml" rel="self"/>
  <link href="http://www.itskys.com"/>
- <updated>2016-02-26T15:47:16+00:00</updated>
+ <updated>2016-02-26T16:28:05+00:00</updated>
  <author>
    <name>Kingkong</name>
    <email>itskys#gmail.com</email>
@@ -13,18 +13,18 @@
  
  <entry>
    <title>Widows下PXA270开发板的Linux系统的移植过程</title>
-   <link href="http://www.itskys.com/linux/px270-arm-porting.html"/>
+   <link href="http://www.itskys.com/linux/2010/03/20/px270-arm-porting.html"/>
    <updated>2010-03-20T00:00:00+00:00</updated>
-   <id>/linux/px270-arm-porting</id>
+   <id>/linux/2010/03/20/px270-arm-porting</id>
    <content type="html">&lt;p&gt;详见：&lt;a href=&quot;http://blog.chinaunix.net/uid-22985736-id-130069.html&quot;&gt;http://blog.chinaunix.net/uid-22985736-id-130069.html&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>人生什么更重要？</title>
-   <link href="http://www.itskys.com/reading/which-more-important.html"/>
+   <link href="http://www.itskys.com/reading/2010/01/01/which-more-important.html"/>
    <updated>2010-01-01T00:00:00+00:00</updated>
-   <id>/reading/which-more-important</id>
+   <id>/reading/2010/01/01/which-more-important</id>
    <content type="html">&lt;p&gt;###哪个更重要？&lt;/p&gt;
 
 &lt;p&gt;方向比努力重要，&lt;br /&gt;

@@ -38,10 +38,12 @@ title: Jekyll安装与配置
 
 ####5. install others
 ```
-	gem install RedCloth
-	gem install rdiscount
+	gem install RedCloth //
+	gem install rdiscount //
+	gem install kramdown //从2016.03.01起，github只支持这个引擎
 	jekyll --rdiscount
-	markdown: rdiscount
+	jekyll --kramdown
+	markdown: kramdown
 	yum install python-pyments
 ```
 
@@ -54,6 +56,13 @@ title: Jekyll安装与配置
 ####7. Fork a jekyll repo
 
 ####8. modify
+```
+	vi _config.yml
+		markkdown: kramdown //github pages现在只支持这个引擎；
+		higlighter: rouge  //github pages现在只支持Rouge语法高亮；
+	//github pages 不再支持relative permalinks
+	//github pages 不再支持Textile，只支持Markdown; 
+```
 
 ####9. addtions
 

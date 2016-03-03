@@ -2,15 +2,19 @@
 layout: post
 title: Jekyll安装与配置
 ---
-{{title.page}}
+{{ page.title }}
 
 ***
-####1. Install GCC
+   
+
+#### 1. Install gcc
 ```
 	gcc -v
 	yum install gcc
 ```
-####2. install rvm
+   
+
+#### 2. install rvm
 ```
 	cd /home/
 	curl -L get.rvm.io | bash -s stable
@@ -18,7 +22,9 @@ title: Jekyll安装与配置
 	  source /etc/profile.d/rvm.sh
 	rvm -v
 ```
-####3. install ruby
+   
+
+#### 3. install ruby
 ```
 	rvm install 
 	rvm list
@@ -28,15 +34,17 @@ title: Jekyll安装与配置
 	gem update --system
 	gem -v
 ```
+   
 
-####4. install jekyll
+#### 4. install jekyll
 ```
 	gem install ruby-devel
 	gem install jekyll
 	jekyll -v
 ```
+   
 
-####5. install others
+#### 5. install others
 ```
 	gem install RedCloth //
 	gem install rdiscount //
@@ -46,16 +54,20 @@ title: Jekyll安装与配置
 	markdown: kramdown
 	yum install python-pyments
 ```
+   
 
-####6. Run jekyll
+#### 6. Run jekyll
 ```
 	jekyll build
 	jekyll --server
 ```
+   
 
-####7. Fork a jekyll repo
+#### 7. Fork a jekyll repo
 
-####8. modify
+   
+
+#### 8. modify
 ```
 	vi _config.yml
 		markkdown: kramdown //github pages现在只支持这个引擎；
@@ -63,15 +75,24 @@ title: Jekyll安装与配置
 	//github pages 不再支持relative permalinks
 	//github pages 不再支持Textile，只支持Markdown; 
 ```
+   
 
-####9. addtions
+#### 9. addtions
 
+   
 
 ***
-##Links
+   
+   
+
+## Links
+
 * [markdown](http://www.itskys.com/2016/02/28/markdown.html)
 * [git](http://www.itskys.com/2016/03/02/git.html)
 * [vi/vim](http://www.itskys.com/2016/03/02/vi-vim.html)
+   
+   
+
 ***
 
 

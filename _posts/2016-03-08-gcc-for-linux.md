@@ -17,10 +17,10 @@ C语言是Linux下使用最多的语言，也是最基础的语言。在Linux中
 
 ##写好源程序代码   
 以Centos为例，先进入家目录，编写源程序代码。   
-``` cd /home  
+``` cd /home     
 ``` mkdir c   
 ``` cd c   
-``` vi test.c    
+``` vi test.c     
 这里需要了解vi的基本使用，可以参考这里：[vi/vim使用方法](http://www.itskys.com/2016/03/02/vi-vim.html)
 然后在源程序代码中输入代码，示例如下：   
 ```   
